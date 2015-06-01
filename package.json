@@ -1,0 +1,9 @@
+{
+  "name": "@nib-components/jquery",
+  "version": "1.10.2",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:nib-components/jquery.git"
+  }
+}
